@@ -4,6 +4,6 @@ public class TimeFutebol {
 	
 	public String TimeFutebol(){
 		
-		return "Curinthians";
+		return "Palmeiras";
 	}
 }
