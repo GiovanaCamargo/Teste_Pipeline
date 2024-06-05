@@ -39,7 +39,7 @@
                 <version>2.22.2</version>
                 <configuration>
                     <includes>
-                        <include>**/*TestePessoa.java</include>
+                        <include>**/*TimeFutebol.java</include>
                     </includes>
                 </configuration>
             </plugin>
